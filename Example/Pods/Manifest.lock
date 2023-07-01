@@ -1,0 +1,16 @@
+PODS:
+  - crypto (0.1.0)
+
+DEPENDENCIES:
+  - crypto (from `../`)
+
+EXTERNAL SOURCES:
+  crypto:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  crypto: bcd27ee6d712cf92d34586b3915f2e1ab33f994e
+
+PODFILE CHECKSUM: efeb43bcd2919d4f4056a0dd2022b6a116f4ec14
+
+COCOAPODS: 1.11.3
